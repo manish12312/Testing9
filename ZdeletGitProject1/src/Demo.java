@@ -37,6 +37,15 @@ public class Demo
 	}
 
 	
+	public void m20()
+	{
+		System.out.println(" M 20 ");
+	}
+	public void multiply()
+	{
+		System.out.println(" Hello Multiply");
+		
+	}
 	
 	
 	
