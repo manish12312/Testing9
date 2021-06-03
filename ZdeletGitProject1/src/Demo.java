@@ -9,6 +9,8 @@ public class Demo
 		Demo dm=new Demo();
 		dm.m10();
 		dm.add();
+		dm.m11();
+		dm.subtract();
 		
 		
 	}
@@ -24,7 +26,15 @@ public class Demo
 		
 	}
 	
-	
+	public void m11()
+	{
+		System.out.println(" M 11 ");
+	}
+	public void subtract()
+	{
+		System.out.println(" Hello Subtract");
+		
+	}
 
 	
 	
